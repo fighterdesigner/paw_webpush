@@ -1,0 +1,42 @@
+{
+  "name": "Hello World",
+  "short_name": "Hello",
+    "icons": [{
+    "src": "img/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }, {
+      "src": "img/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }, {
+      "src": "img/tile70x70.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "img/tile150x150.png",
+      "sizes": "270x270",
+      "type": "image/png"
+    }, {
+      "src": "img/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "img/tile310x310.png",
+      "sizes": "558x558",
+      "type": "image/png"
+    }, {
+        "src": "img/tile310x150.png",
+        "sizes": "310x150",
+        "type": "image/png"
+    }, {
+        "src": "img/pwa-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "#FBD428"
+}
